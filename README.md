@@ -1,45 +1,76 @@
 <div align="center">
 
-<img src="https://nexobyte-tech-hq.github.io/favicon.svg" width="80" height="80" alt="NexoByte Tech">
+<img src="https://raw.githubusercontent.com/nexobyte-tech-hq/.github/main/assets/logo.png" width="96" height="96" alt="NexoByte Tech logo">
 
 # NexoByte Tech
 
 ### Connected ideas. Purposeful software.
 
-Web development · Custom software · Digital communication
+Web experiences, custom software, and tools that bring people closer.
 
-**[Website](https://nexobyte-tech-hq.github.io/) · [Organization](https://github.com/nexobyte-tech-hq) · [Contact](mailto:jeremy.voss@pixelsoftgames.com)**
+**[Website](https://nexobyte-tech-hq.github.io/) · [Organization](https://github.com/nexobyte-tech-hq) · [Discuss a project](mailto:jeremy.voss@pixelsoftgames.com)**
 
 </div>
 
 ---
 
-## Welcome to my development space
+## Building with purpose
 
-Through this account, I contribute to **NexoByte Tech**, a technology initiative focused on web experiences, software tools, and communication integrations for businesses and entrepreneurs.
+This is my development profile for work on **NexoByte Tech**. I focus on turning business needs into clear, practical digital experiences, from a company’s web presence to tools that support its workflows.
 
-My approach starts with understanding each need, defining a clear scope, and building useful solutions through progress that can be reviewed.
+My approach is to understand the problem, define a manageable scope, and build in steps that can be reviewed and improved.
 
-## Areas of interest and work
+## Selected projects
 
-- **Web development:** business websites, landing pages, and web applications.
-- **Custom software:** internal tools and dashboards tailored to each project.
-- **Automation:** system integrations and workflow improvements.
-- **Digital communication:** contact, messaging, and calling integrations based on project requirements.
+### NexoCall
 
-## Explore NexoByte Tech
+**Browser-based audio calling · Local prototype**
 
-| Destination | What you will find |
+A one-to-one audio calling project with room invitations, microphone controls, and a WebRTC client backed by a Node.js signaling server.
+
+The prototype runs locally. Cross-device audio validation and public deployment are still pending.
+
+[Explore the repository](https://github.com/nexobyte-tech-hq/nexocall) · [Prototype development task](https://github.com/nexobyte-tech-hq/nexocall/issues/1)
+
+### NexoByte Tech website
+
+**Business website · Published on GitHub Pages**
+
+A responsive introduction to NexoByte Tech, its areas of work, and its contact channels. Built with HTML, CSS, and JavaScript.
+
+[Visit the website](https://nexobyte-tech-hq.github.io/) · [View the source](https://github.com/nexobyte-tech-hq/nexobyte-tech-hq.github.io)
+
+## Development focus
+
+| Area | Focus |
 | --- | --- |
-| [Website](https://nexobyte-tech-hq.github.io/) | An introduction to the initiative, services, and contact information. |
-| [GitHub organization](https://github.com/nexobyte-tech-hq) | NexoByte Tech repositories and activity. |
-| [Website source](https://github.com/nexobyte-tech-hq/nexobyte-tech-hq.github.io) | Source code for the business website. |
+| **Web development** | Business websites, landing pages, and responsive web applications. |
+| **Custom software** | Internal tools and dashboards shaped around specific workflows. |
+| **Integrations & automation** | Connecting systems and simplifying repetitive tasks. |
+| **Digital communication** | Browser audio, messaging, and contact integrations. |
 
-## Let’s talk about your next idea
+## Tools used in current projects
 
-Need a website, a business tool, or an integration? Get in touch and tell me what you need to solve.
+**HTML · CSS · JavaScript · Node.js · WebRTC · GitHub Pages**
+
+Technology choices follow the needs of each project, with an emphasis on readable code, documented setup, and clear implementation status.
+
+## How I approach a project
+
+**Understand → Define → Build → Validate**
+
+- Establish the goal, users, and constraints.
+- Agree on scope, priorities, and deliverables.
+- Develop through reviewable progress.
+- Check behavior, document limitations, and plan the next iteration.
+
+## Let’s build your next connection
+
+Have an idea, need a website, or want to improve a business workflow? Tell me what you want to achieve.
 
 **[jeremy.voss@pixelsoftgames.com](mailto:jeremy.voss@pixelsoftgames.com)**
+
+For company projects and repositories, visit **[NexoByte Tech](https://github.com/nexobyte-tech-hq)**.
 
 ---
 
